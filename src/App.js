@@ -114,3 +114,6 @@ export default App;
 
 // ReactJS
 // React Bootstrap
+
+//--------------------PENTING------------------//
+// Jika mengalami error 'CORS policy: Access-Control-Allow-Origin' download dan jalankan extensi Chrome 'Allow CORS: Access-Control-Allow-Origin'
